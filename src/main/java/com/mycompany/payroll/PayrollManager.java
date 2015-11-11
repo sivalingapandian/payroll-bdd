@@ -1,4 +1,4 @@
-package com.medhost.payroll;
+package com.mycompany.payroll;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

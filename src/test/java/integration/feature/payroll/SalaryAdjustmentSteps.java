@@ -1,7 +1,7 @@
 package integration.feature.payroll;
 
-import com.medhost.payroll.Employee;
-import com.medhost.payroll.PayrollManager;
+import com.mycompany.payroll.Employee;
+import com.mycompany.payroll.PayrollManager;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

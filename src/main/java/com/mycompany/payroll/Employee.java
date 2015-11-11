@@ -1,4 +1,4 @@
-package com.medhost.payroll;
+package com.mycompany.payroll;
 
 import java.time.LocalDate;
 
